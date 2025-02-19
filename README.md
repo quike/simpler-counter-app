@@ -1,16 +1,9 @@
 # simpler_counter_app
 
+[![tests](https://github.com/quike/simpler-counter-app/actions/workflows/tests.yml/badge.svg)](https://github.com/quike/simpler-counter-app/actions/workflows/tests.yml)
+[![release](https://github.com/quike/simpler-counter-app/actions/workflows/release.yml/badge.svg)](https://github.com/quike/simpler-counter-app/actions/workflows/release.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Documentation [here](docs/index.md).
